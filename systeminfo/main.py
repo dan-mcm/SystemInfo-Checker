@@ -1,7 +1,7 @@
 '''
 Created on Jan 29, 2017
 
-@author: danie
+@author: Daniel McMahon
 '''
 import platform
 
